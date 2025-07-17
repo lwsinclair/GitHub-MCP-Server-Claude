@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/divyanshkushwaha-github-mcp-server-claude-badge.png)](https://mseep.ai/app/divyanshkushwaha-github-mcp-server-claude)
+
 # GitHub MCP Server
 
 ## Overview
